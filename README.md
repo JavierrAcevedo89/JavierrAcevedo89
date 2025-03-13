@@ -23,13 +23,13 @@
 
 <h3>🗄️ Bases de datos:</h3>
 <ul>
-  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40"/> SQL</li>
+  <li><img src="https://th.bing.com/th/id/R.b25bae44ff516c7dcc3eacdb14d2c499?rik=WHZv1aXyAdFq4A&pid=ImgRaw&r=0" alt="SQL" width="40"/> SQL</li>
 </ul>
 
 <h3>📌 Herramientas y metodologías:</h3>
 <ul>
-  <li><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Diagrams.net_Logo.svg" alt="Draw.io" width="40"/> Draw.io (Documentación)</li>
-  <li><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/OpenProject_Logo.png" alt="OpenProject" width="40"/> OpenProject (Gestión de proyectos)</li>
+  <li><img src="https://www.nucleiotechnologies.com/wp-content/uploads/2021/08/drawio.jpg" width="40"/> Draw.io (Documentación)</li>
+  <li><img src="https://www.openproject.org/assets/images/press/openproject-icon-original-color-d69b9220.png" alt="OpenProject" width="40"/> OpenProject (Gestión de proyectos)</li>
 </ul>
 
 ---
